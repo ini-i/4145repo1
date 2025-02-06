@@ -1,0 +1,19 @@
+Running merge sort of size 10
+Time: 0 ms
+Running merge sort of size 100
+Time: 0 ms
+Running merge sort of size 1000
+Time: 0 ms
+Running merge sort of size 10000
+Time: 0 ms
+Running merge sort of size 100000
+Time: 9 ms
+Running merge sort of size 1000000
+Time: 99 ms
+Running merge sort of size 10000000
+Time: 1040 ms
+Running merge sort of size 100000000
+Time: 10975 ms
+Running merge sort of size 1000000000
+/var/spool/slurm/slurmd/job06813/slurm_script: line 17: 302640 Killed                  ./hw1 $size >> benchmark_results.txt
+slurmstepd: error: Detected 1 oom_kill event in StepId=6813.batch. Some of the step tasks have been OOM Killed.

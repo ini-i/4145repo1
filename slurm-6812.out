@@ -1,0 +1,40 @@
+hw1.cpp: In function ‘void merge(int*, int, int, int)’:
+hw1.cpp:9:28: error: ‘n1’ was not declared in this scope; did you mean ‘num1’?
+    9 |     int *leftArr = new int[n1];
+      |                            ^~
+      |                            num1
+hw1.cpp:10:29: error: ‘n2’ was not declared in this scope; did you mean ‘num2’?
+   10 |     int *rightArr = new int[n2];
+      |                             ^~
+      |                             num2
+hw1.cpp: In function ‘int main(int, char**)’:
+hw1.cpp:77:5: error: expected ‘,’ or ‘;’ before ‘int’
+   77 |     int *arr = new int[size];
+      |     ^~~
+hw1.cpp:80:9: error: ‘arr’ was not declared in this scope
+   80 |         arr[i] = std::rand() % 100;
+      |         ^~~
+hw1.cpp:84:16: error: ‘arr’ was not declared in this scope
+   84 |     printArray(arr, size);
+      |                ^~~
+hw1.cpp:99:5: error: type ‘<type error>’ argument given to ‘delete’, expected pointer
+   99 |     delete[] arr;
+      |     ^~~~~~~~~~~~
+Running merge sort of size 10
+Time: 1 ms
+Running merge sort of size 100
+Time: 1 ms
+Running merge sort of size 1000
+Time: 1 ms
+Running merge sort of size 10000
+Time: 1 ms
+Running merge sort of size 100000
+Time: 1 ms
+Running merge sort of size 1000000
+Time: 1 ms
+Running merge sort of size 10000000
+Time: 1 ms
+Running merge sort of size 100000000
+Time: 1 ms
+Running merge sort of size 1000000000
+Time: 1 ms

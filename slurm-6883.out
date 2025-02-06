@@ -1,0 +1,11 @@
+Running merge sort of size 10
+Running merge sort of size 100
+Running merge sort of size 1000
+Running merge sort of size 10000
+Running merge sort of size 100000
+Running merge sort of size 1000000
+Running merge sort of size 10000000
+Running merge sort of size 100000000
+Running merge sort of size 1000000000
+/var/spool/slurm/slurmd/job06883/slurm_script: line 17: 310403 Killed                  ./hw1 $size >> results.csv
+slurmstepd: error: Detected 1 oom_kill event in StepId=6883.batch. Some of the step tasks have been OOM Killed.

@@ -1,0 +1,20 @@
+cc1plus: fatal error: hw1.cpp: No such file or directory
+compilation terminated.
+Running merge sort for size 10
+/var/spool/slurm/slurmd/job06783/slurm_script: line 16: ./becnhh: No such file or directory
+Running merge sort for size 100
+/var/spool/slurm/slurmd/job06783/slurm_script: line 16: ./becnhh: No such file or directory
+Running merge sort for size 1000
+/var/spool/slurm/slurmd/job06783/slurm_script: line 16: ./becnhh: No such file or directory
+Running merge sort for size 10000
+/var/spool/slurm/slurmd/job06783/slurm_script: line 16: ./becnhh: No such file or directory
+Running merge sort for size 100000
+/var/spool/slurm/slurmd/job06783/slurm_script: line 16: ./becnhh: No such file or directory
+Running merge sort for size 1000000
+/var/spool/slurm/slurmd/job06783/slurm_script: line 16: ./becnhh: No such file or directory
+Running merge sort for size 10000000
+/var/spool/slurm/slurmd/job06783/slurm_script: line 16: ./becnhh: No such file or directory
+Running merge sort for size 100000000
+/var/spool/slurm/slurmd/job06783/slurm_script: line 16: ./becnhh: No such file or directory
+Running merge sort for size 1000000000
+/var/spool/slurm/slurmd/job06783/slurm_script: line 16: ./becnhh: No such file or directory
